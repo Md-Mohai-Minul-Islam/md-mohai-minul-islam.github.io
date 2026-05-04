@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a Computer Science PhD aspirant with a strong interest in theoretical and applied foundations of computing. My academic focus spans machine learning, theoretical computer science, mathematics, and programming systems.
+
 I have a deep passion for mathematical thinking and algorithmic problem solving, which I continuously develop through extensive self-study and independent exploration of advanced topics in computer science and mathematics.
 
 Alongside my academic preparation, I work as a tutor in mathematics and physics, where I teach students and help them build strong conceptual foundations in analytical reasoning and problem-solving.
