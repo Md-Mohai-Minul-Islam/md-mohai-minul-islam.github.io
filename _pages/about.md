@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Computer Science PhD aspirant with interests in machine learning, theoretical computer science, mathematics, and programming. I enjoy deep self-study and teaching mathematics and physics, focusing on building strong analytical and problem-solving skills.
+Computer Science PhD aspirant with interests in machine learning, theoretical computer science, mathematics, and programming. I enjoy deep self-study and I teach mathematics and physics for university entrance exam, focusing on building strong analytical and problem-solving skills.
