@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael H. Borkowski"
+title                    : "Md Mohai Minul Islam"
 title_separator          : "-"
-name                     : &name "Michael H. Borkowski"
-description              : &description "Asst. Prof. of Practice at Purdue"
-url                      : https://michaelborkowski.github.io # the base hostname & protocol for your site
+name                     : &name "Md Mohai Minul Islam"
+description              : &description "Electrical Engineer"
+url                      : https://md-mohai-minul-islam.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "michaelborkowski.github.io"
+repository               : "md-mohai-minul-islam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
