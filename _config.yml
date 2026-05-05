@@ -86,7 +86,7 @@ author:
   location         : "Chandranagar, Mymensingh, Bangladesh"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=7jVgRPQAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=7jVgRPQAAAAJ"
   email            : "mohaiminuladil.islam@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
