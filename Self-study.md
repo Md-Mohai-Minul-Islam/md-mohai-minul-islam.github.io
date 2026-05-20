@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-study
+title: Self-Study
 permalink: /self-study/
 ---
 # Self-Study
