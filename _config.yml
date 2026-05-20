@@ -236,15 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-   # _self-study
-  - scope:
-      path: ""
-      type: self-study
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true  
+      
   # _talks
   - scope:
       path: ""
