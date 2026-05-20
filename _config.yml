@@ -236,8 +236,8 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      # _self-study
-   - scope:
+   # _self-study
+  - scope:
       path: ""
       type: self-study
     values:
