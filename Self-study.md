@@ -12,7 +12,7 @@ I am deeply interested in self-directed learning in the fields of:
 - Mathematics
 - Physics
 - Semiconductor Research
-- Programming Languages
+- Programming Languages 
 - Artificial Intelligence
 
 ## Topics Currently Exploring
