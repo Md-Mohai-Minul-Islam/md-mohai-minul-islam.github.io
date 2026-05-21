@@ -19,6 +19,3 @@ author_profile: true
 - Computational Complexity
 - Quantum Computing
 
-## Learning Philosophy
-
-I believe extensive self-study and research-driven learning are essential for mastering advanced scientific and technological fields.
