@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Self-Study
+title: "Self-Study"
 permalink: /self-study/
+layout: single
+author_profile: true
 ---
+
 # Self-Study
 
 I am deeply interested in self-directed learning in the fields of:
@@ -12,7 +14,7 @@ I am deeply interested in self-directed learning in the fields of:
 - Mathematics
 - Physics
 - Semiconductor Research
-- Programming Languages 
+- Programming Languages
 - Artificial Intelligence
 
 ## Topics Currently Exploring
@@ -21,6 +23,11 @@ I am deeply interested in self-directed learning in the fields of:
 - Algorithms
 - Abstract Algebra
 - Computational Complexity
+- Quantum Computing
+
+## Learning Philosophy
+
+I believe extensive self-study and research-driven learning are essential for mastering advanced scientific and technological fields.
 - Quantum Computing
 
 ## Learning Philosophy
