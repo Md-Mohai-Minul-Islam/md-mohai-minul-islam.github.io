@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Self-Study
-
 I am deeply interested in self-directed learning in the fields of:
 
 - Machine Learning
