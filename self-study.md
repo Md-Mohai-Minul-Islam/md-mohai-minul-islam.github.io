@@ -28,8 +28,3 @@ I am deeply interested in self-directed learning in the fields of:
 ## Learning Philosophy
 
 I believe extensive self-study and research-driven learning are essential for mastering advanced scientific and technological fields.
-- Quantum Computing
-
-## Learning Philosophy
-
-I believe extensive self-study and research-driven learning are essential for mastering advanced scientific and technological fields.
