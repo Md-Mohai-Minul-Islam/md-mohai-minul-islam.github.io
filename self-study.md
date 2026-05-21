@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I have completed some valued online courses from platforms like MITOpenCourseWare and Coursera to enhance my expertise:
+I have completed some valued online courses from platforms like MIT OpenCourseWare and Coursera to enhance my expertise:
 
 - Machine Learning
 - Theoretical Computer Science
