@@ -5,11 +5,11 @@ layout: single
 author_profile: true
 ---
 
-I have completed some valued online courses from platforms like MIT OpenCourseWare and Coursera to enhance my expertise:
+## Online Courses
 
-- Machine Learning
-- Theoretical Computer Science
-- Artificial Intelligence
+- [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))
+- [MIT Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 ## Topics Currently Exploring
 
