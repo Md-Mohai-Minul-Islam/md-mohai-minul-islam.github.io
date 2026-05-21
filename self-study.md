@@ -11,10 +11,10 @@ author_profile: true
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - [MIT Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
-## Topics Currently Exploring
+## Books
 
-- Deep Learning
-- Algorithms
+- Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
+- Introduction to the Theory of Computation (Michael Sipser)
 - Abstract Algebra
 - Computational Complexity
 - Quantum Computing
