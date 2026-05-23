@@ -17,6 +17,6 @@ author_profile: true
 - Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 - Introduction to the Theory of Computation (Michael Sipser)
 - Introduction to Theoretical Computer Science (Boaz Barak)
-- Computational Complexity
+- Computational Complexity: A Modern Approach (Sanjeev Arora, Boaz Barak)
 - Quantum Computing
 
