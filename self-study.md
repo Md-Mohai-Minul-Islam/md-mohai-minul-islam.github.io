@@ -1,5 +1,5 @@
 ---
-title: "Advanced Coursework & Reading"
+title: "Self Learning"
 permalink: /self-study/
 layout: single
 author_profile: true
